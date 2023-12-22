@@ -1,0 +1,5 @@
+Django==3.2.16
+djangorestframework==3.12.4
+black==23.7.0
+python-dotenv==1.0.0
+stripe==7.9.0

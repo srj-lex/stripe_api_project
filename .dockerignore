@@ -1,0 +1,4 @@
+venv
+.git
+tz.txt
+stripe_api_project/db.sqlite3
